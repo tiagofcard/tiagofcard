@@ -9,7 +9,7 @@ Além do fato de estar totalmente engajado e determinado a trabalhar como desenv
  ou dar um novo rumo à sua vida.
 
 
-## Outras seções comuns em perfis do GitHub
+
 👩‍💻 Trabalho atualmente na GF7 Brasil
 
 🧠 Estou aprendendo desenvolvimento web full-stack
